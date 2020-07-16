@@ -8,6 +8,7 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 - [x] :beetle: Fix [whizsid/osm-to-sql#2](https://github.com/whizsid/osm-to-sql/issues/2) issue. (Multi thread feature)
 - [ ] :rocket: Finish [typetron/framework#1](https://github.com/typetron/framework/pull/1) PR. (Migrations feature)
 - [x] :rocket: Adding the 'Copy to clipboard' feature on [formulahendry/vscode-mysql](https://github.com/formulahendry/vscode-mysql). (Done [formulahendry/vscode-mysql#145](https://github.com/formulahendry/vscode-mysql/pull/145))
+- [ ] :rocket: Adding the 'Execute extension command' feature to [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini).
 - [ ] :blue_book: Finish [Writing an OS in Rust](https://os.phil-opp.com/) tutorial.
 
 ### Mastered Languages :pencil2:
