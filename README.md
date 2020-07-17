@@ -10,15 +10,4 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 - [x] :rocket: Adding the 'Copy to clipboard' feature on [formulahendry/vscode-mysql](https://github.com/formulahendry/vscode-mysql). (Done [formulahendry/vscode-mysql#145](https://github.com/formulahendry/vscode-mysql/pull/145))
 - [ ] :rocket: Adding the 'Execute extension command' feature to [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini).
 - [ ] :blue_book: Finish [Writing an OS in Rust](https://os.phil-opp.com/) tutorial.
-
-### Mastered Languages :pencil2:
-|  |  |  | | | |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| <p align="center"><img width="48" alt="Rust" src="https://simpleicons.org/icons/rust.svg" /> </p> | <p align="center"><img align="center" width="48" alt="Typescript" src="https://simpleicons.org/icons/typescript.svg" /> </p>  | <p align="center"><img align="center" width="48" alt="PHP" src="https://simpleicons.org/icons/php.svg" /> </p> | <p align="center"><img align="center" width="48" alt="Java" src="https://simpleicons.org/icons/java.svg" /> </p>  |<p align="center"><img align="center" width="48" alt="Kotlin" src="https://simpleicons.org/icons/kotlin.svg" /> </p>  | <p align="center"><img align="center" width="48" alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" /> </p>  |
-| Rust  | TypeScript  | PHP |Java  | Kotlin  | MySQL  |
-
-### Mastered Frameworks :books:
-|  |  |  | | | |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| <p align="center"><img width="48" alt="React" src="https://simpleicons.org/icons/react.svg" /> </p> | <p align="center"><img align="center" width="48" alt="Angular" src="https://simpleicons.org/icons/angular.svg" /> </p>  | <p align="center"><img align="center" width="48" alt="Laravel" src="https://simpleicons.org/icons/laravel.svg" /> </p> | <p align="center"><img align="center" width="48" alt="SpringBoot" src="https://simpleicons.org/icons/spring.svg" /> </p>  |<p align="center"><img align="center" width="48" alt="Electron" src="https://simpleicons.org/icons/electron.svg" /> </p>  | <p align="center"><img align="center" width="48" alt="Redux" src="https://simpleicons.org/icons/redux.svg" /> </p>  |
-| React  | Angular  | Laravel |SpringBoot  | Electron  | Redux  |
+- [ ] :beetle: Fix [hikarin522/GlassIt-VSC#16](https://github.com/hikarin522/GlassIt-VSC/issues/16) issue. (Not working on dwm desktop manager.)
