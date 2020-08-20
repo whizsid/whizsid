@@ -6,9 +6,6 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 
 ## This Month :calendar:
 
-- [x] :beetle: Fix [whizsid/osm-to-sql#2](https://github.com/whizsid/osm-to-sql/issues/2) issue. (Multi thread feature)
-- [ ] :rocket: Finish [typetron/framework#1](https://github.com/typetron/framework/pull/1) PR. (Migrations feature)
-- [x] :rocket: Adding the 'Copy to clipboard' feature on [formulahendry/vscode-mysql](https://github.com/formulahendry/vscode-mysql). (PR Made [formulahendry/vscode-mysql#145](https://github.com/formulahendry/vscode-mysql/pull/145))
-- [x] :rocket: Adding the 'Execute extension command' feature to [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini). (PR Made [jonhoo/fantoccini#92](https://github.com/jonhoo/fantoccini/pull/92))
-- [ ] :blue_book: Finish [Writing an OS in Rust](https://os.phil-opp.com/) tutorial.
-- [x] :beetle: Fix linux dwm DM issue [hikarin522/GlassIt-VSC#16](https://github.com/hikarin522/GlassIt-VSC/issues/16). (PR Made [hikarin522/GlassIt-VSC#18](https://github.com/hikarin522/GlassIt-VSC/pull/18))
+- [x] :rocket: Finish [typetron/framework#1](https://github.com/typetron/framework/pull/1) PR. (Migrations feature)
+  Typetron is a Laravel like MVC framework build with typescript for nodejs developers.
+- [x] :rocket: Adding extension commands feature to [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) . (PR Sent [stevepryde/thirtyfour#16](https://github.com/stevepryde/thirtyfour/pull/16) )
