@@ -13,3 +13,5 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 - [x] :rocket: Adding extension commands feature to [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) . (PR Sent [stevepryde/thirtyfour#16](https://github.com/stevepryde/thirtyfour/pull/16) )
 
   thirtyfour is a rust selenium like webdriver wrapper built for browser automation testings.
+
+- [ ] :beetle: Fixing the HTTP_PROXY variable issue ([tomusdrw/rust-web3#369](https://github.com/tomusdrw/rust-web3/issues/369)).
