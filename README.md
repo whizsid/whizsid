@@ -14,4 +14,4 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 
   thirtyfour is a rust selenium like webdriver wrapper built for browser automation testings.
 
-- [ ] :beetle: Fixing the HTTP_PROXY variable issue ([tomusdrw/rust-web3#369](https://github.com/tomusdrw/rust-web3/issues/369)).
+- [x] :beetle: Fixing the HTTP_PROXY variable issue ([tomusdrw/rust-web3#369](https://github.com/tomusdrw/rust-web3/issues/369)).
