@@ -9,4 +9,4 @@ I am **Ramesh Kithsiri**. But package managers and opensource communities knowin
 - [x] :rocket: Finish [typetron/framework#1](https://github.com/typetron/framework/pull/1) PR. (Migrations feature)
 - [x] :rocket: Adding extension commands feature to [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) . (PR Sent [stevepryde/thirtyfour#16](https://github.com/stevepryde/thirtyfour/pull/16) )
 - [x] :beetle: Fixing the HTTP_PROXY variable issue ([tomusdrw/rust-web3#369](https://github.com/tomusdrw/rust-web3/issues/369)).
-- [x] :rocket: Add conditions feature to [dtolnay/quote](https://github.com/dtolnay/quote) crate. (Shipped with [dtolnay/quote#166](https://github.com/dtolnay/quote/pull/166))
+- [ ] :rocket: Add conditions feature to [dtolnay/quote](https://github.com/dtolnay/quote) crate. (Not Merged [dtolnay/quote#166](https://github.com/dtolnay/quote/pull/166))
